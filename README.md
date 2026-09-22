@@ -23,15 +23,9 @@
 - Currently focused on Java and Spring Boot
 - Interested in REST APIs, databases, authentication and security, testing, and deployment
 - Continuously improving my backend engineering skills
-- GitHub: [YOUR_USERNAME](https://github.com/shorajgoat)
-- Portfolio: [YOUR_PORTFOLIO_URL](https://shorajghimire.com.np/)
-- Email: [YOUR_EMAIL](mailto:shorajghm11@gmail.com)
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+- GitHub: (https://github.com/shorajgoat)
+- Portfolio: (https://shorajghimire.com.np/)
+- Email: (mailto:shorajghm11@gmail.com)
 
 ## 💻 Tech Stack
 
