@@ -71,68 +71,6 @@
 
 </div>
 
-## 📌 Featured Projects
-
-### Uber Backend Chief
-
-**Java · Spring Boot · MySQL · JWT**
-
-A backend clone of an Uber-style ride platform focused on authentication, driver and rider flows, ride management, availability, and core business logic.
-
-[GitHub →](https://github.com/shorajgoat/UberBackendChief)
-
----
-
-### BizFlow
-
-**Java · Spring Boot · PostgreSQL · Spring Security**
-
-A business operations backend for managing store activities, customer interactions, products, and core workflows in a modern Java application architecture.
-
-[GitHub →](https://github.com/shorajgoat/BizFlow)
-
----
-
-### PayFlow
-
-**Java · Spring Boot · PostgreSQL · Payment System Backend**
-
-A payment-focused backend application built with Java and Spring Boot, designed to manage financial workflows and backend operations with clean service-layer architecture.
-
-[GitHub →](https://github.com/shorajgoat/payflow)
-
----
-
-### Portfolio
-
-**HTML · CSS · JavaScript**
-
-My personal portfolio website showcasing projects, skills, and interests in software development.
-
-[GitHub →](https://github.com/shorajgoat/portfolio)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/shorajgoat">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shorajgoat&show_icons=true&hide_border=true&theme=github_dark&title_color=EDC98A&icon_color=BCAE79&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/shorajgoat">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorajgoat&layout=compact&hide_border=true&theme=github_dark&title_color=EDC98A&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/shorajgoat">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorajgoat&hide_border=true&background=0D1117&ring=EDC98A&fire=BCAE79&currStreakLabel=EDC98A&sideLabels=C9D1D9&currStreakNum=C9D1D9&border=0D1117" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
 `◈`
 
 <sub>Build with intent. Keep moving toward the horizon.</sub>
-
-</div>
