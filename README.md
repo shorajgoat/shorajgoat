@@ -1,4 +1,25 @@
 <div align="center">
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dune inspired sand background">
+    <defs>
+      <linearGradient id="sandBg" x1="0" x2="0" y1="0" y2="1">
+        <stop offset="0%" stop-color="#fbe7b1"/>
+        <stop offset="40%" stop-color="#f2d08e"/>
+        <stop offset="100%" stop-color="#d9b070"/>
+      </linearGradient>
+      <linearGradient id="dune1" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#e7c98b"/>
+        <stop offset="100%" stop-color="#c69055"/>
+      </linearGradient>
+      <linearGradient id="dune2" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#d6a868"/>
+        <stop offset="100%" stop-color="#b67d43"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="180" fill="url(#sandBg)"/>
+    <path d="M0,120 C130,90 170,70 260,110 C360,160 455,155 540,110 C620,70 720,90 820,130 C930,170 1045,168 1200,120 L1200,180 L0,180 Z" fill="url(#dune1)" opacity="0.9"/>
+    <path d="M0,145 C120,120 210,130 310,150 C400,170 500,165 610,135 C710,105 835,115 930,150 C1030,185 1110,190 1200,162 L1200,180 L0,180 Z" fill="url(#dune2)" opacity="0.92"/>
+    <path d="M0,160 C110,145 210,150 345,170 C440,185 560,182 650,170 C760,156 870,160 960,177 C1040,192 1120,188 1200,172 L1200,180 L0,180 Z" fill="#b77d3d" opacity="0.7"/>
+  </svg>
 
 # SHORAJ GHIMIRE
 
