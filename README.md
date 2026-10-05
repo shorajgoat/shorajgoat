@@ -1,125 +1,235 @@
 <div align="center">
-  <img src="./assets/sand-flow.svg" alt="Desert sand flow" width="100%" />
+
+<img src="./assets/sand-flow.svg" width="100%" alt="Moving desert sand" />
+
+<br>
+
+# SHORAJ GHIMIRE
+
+### Java Backend Developer · Builder · SaaS Founder
+
+<em>Building reliable backend systems today, building products of my own tomorrow.</em>
+
+<br>
+
+`JAVA` · `SPRING` · `BACKEND` · `SYSTEMS` · `PRODUCTS`
+
+<br>
+
+<img src="./assets/dune-divider.svg" width="100%" alt="" />
+
 </div>
 
-<div align="center">
-  <h1>SHORAJ GHIMIRE</h1>
-  <h3>Java Backend Developer • Builder • SaaS Founder</h3>
-  <p><em>Building reliable backend systems today, building products of my own tomorrow.</em></p>
-</div>
+## ARRIVAL
 
-<img src="./assets/dune-divider.svg" alt="Desert horizon divider" width="100%" />
+I build backend systems with real-world constraints in mind — stability, clarity, maintainability, and the ability to grow into products people actually use.
 
-## ABOUT
+My focus is **Java, Spring, backend architecture, and product-minded engineering.**
 
-I build backend systems with real-world constraints in mind: stability, clarity, maintainability, and the ability to scale into products that people actually use.
+<br>
 
-My focus is on Java, Spring, backend architecture, and the product thinking behind software that solves a problem well.
+## THE SYSTEM
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### BACKEND
+
+`Java 17`
+`Spring Boot`
+`Spring Security`
+`JPA / Hibernate`
+`REST APIs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### DATA
+
+`PostgreSQL`
+`MySQL`
+`Redis`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### INFRASTRUCTURE
+
+`Docker`
+`Kafka`
+`GitHub Actions`
+
+</td>
+
+<td width="50%" valign="top">
+
+### TESTING
+
+`JUnit`
+`Mockito`
+`Testcontainers`
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/dune-divider.svg" width="100%" alt="" />
 
 ## CURRENTLY BUILDING
 
-- Java / Spring Boot backend systems
-- SaaS product foundations
-- Production-aware APIs and service patterns
-- Practical engineering for real business workflows
+```text
+01  BACKEND SYSTEMS
+    Reliable APIs and real-world business logic.
 
----
+02  SAAS FOUNDATIONS
+    Turning useful software into products.
 
-## TECH STACK
+03  PRODUCTION ENGINEERING
+    Security, consistency, testing and deployment.
 
-<p align="center">
-  <code>Java 17</code>
-  <code>Spring Boot</code>
-  <code>Spring Security</code>
-  <code>JPA / Hibernate</code>
-  <code>PostgreSQL</code>
-  <code>MySQL</code>
-  <code>Redis</code>
-  <code>Kafka</code>
-  <code>Docker</code>
-  <code>GitHub Actions</code>
-  <code>REST APIs</code>
-  <code>JUnit / Mockito</code>
-</p>
+04  PRODUCT THINKING
+    Build something useful. Keep it simple.
+```
 
----
+<br>
 
-## FEATURED PROJECTS
+## FIELD NOTES
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Uber Backend</strong><br><br>
-      A backend foundation for service-driven mobility workflows, emphasizing clean API boundaries, resilient business logic, and operational clarity.
-      <br><br>
-      <strong>Focus:</strong> service flows, backend orchestration, reliability, scalability
-      <br><br>
-      <strong>Stack:</strong> Java, Spring Boot, PostgreSQL, Redis, Docker
-      <br><br>
-      <a href="https://github.com/shorajgoat">Repository</a> • <a href="https://shorajghimire.com.np/">Docs</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>PayFlow</strong><br><br>
-      A payments-oriented product concept focused on transaction integrity, business rules, and predictable backend behavior in production-like environments.
-      <br><br>
-      <strong>Focus:</strong> payment workflows, validation, consistency, system trust
-      <br><br>
-      <strong>Stack:</strong> Java, Spring Boot, PostgreSQL, Kafka, Redis
-      <br><br>
-      <a href="https://github.com/shorajgoat">Repository</a> • <a href="https://shorajghimire.com.np/">Docs</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>BizFlow</strong><br><br>
-      A workflow-first product idea built around automation, modular services, and dependable business process execution.
-      <br><br>
-      <strong>Focus:</strong> modular architecture, business operations, automation, internal tooling
-      <br><br>
-      <strong>Stack:</strong> Java, Spring Boot, MySQL, Redis, Docker
-      <br><br>
-      <a href="https://github.com/shorajgoat">Repository</a> • <a href="https://shorajghimire.com.np/">Docs</a>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+### 01 / UBER BACKEND
+
+Backend foundation for mobility workflows.
+
+**Focus**
+
+`JWT` · `Security` · `Rides`
+`Driver Location` · `Payments`
+`Haversine` · `REST`
+
+**Stack**
+
+`Java 17` · `Spring Boot`
+`MySQL` · `Docker`
+
+<br>
+
+<a href="https://github.com/shorajgoat/UberBackendChief">
+↳ repository
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 02 / PAYFLOW
+
+Payment and e-wallet backend focused on transaction integrity and predictable system behavior.
+
+**Focus**
+
+`Wallets` · `Transfers`
+`Idempotency` · `Concurrency`
+`Redis` · `Kafka` · `Testing`
+
+**Stack**
+
+`Java 17` · `Spring Boot`
+`PostgreSQL` · `Redis` · `Kafka`
+
+<br>
+
+<a href="https://github.com/shorajgoat/payflow">
+↳ repository
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 03 / BIZFLOW
+
+Business workflow system built around modular operations and dependable business processes.
+
+**Focus**
+
+`Products` · `Categories`
+`Customers` · `Suppliers`
+`Purchases` · `Payments` · `Dues`
+
+**Stack**
+
+`Java 17` · `Spring Boot`
+`MySQL` · `Docker`
+
+<br>
+
+<a href="https://github.com/shorajgoat/BizFlow">
+↳ repository
+</a>
+
+</td>
+
+</tr>
 </table>
 
----
-
-## ENGINEERING FOCUS
-
-<p align="center">
-  <strong><code>Backend</code> → <code>Distributed Systems</code> → <code>Production</code> → <code>Products</code></strong>
-</p>
-
----
-
-## GITHUB ACTIVITY
+<br>
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" alt="GitHub activity graph" width="100%" />
+
+<img src="./assets/sandworm.svg" width="85%" alt="Sandworm moving through the desert" />
+
 </div>
 
 ---
 
-## CURRENT MISSION
+## THE PATH
 
-<p align="center">
-  <strong>Build → Ship → Learn → Repeat</strong>
-</p>
+<div align="center">
+
+**BACKEND**
+
+↓
+
+**SYSTEMS**
+
+↓
+
+**PRODUCTION**
+
+↓
+
+**PRODUCTS**
+
+</div>
 
 ---
 
-## CONTACT
+## SIGNAL
 
-<p align="center">
-  <a href="https://github.com/shorajgoat">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shoraj-ghimire-746593242/">LinkedIn</a> •
-  <a href="https://shorajghimire.com.np/">Portfolio</a> •
-  <a href="mailto:shorajghm11@gmail.com">Email</a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/shorajgoat">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/shoraj-ghimire-746593242/">LinkedIn</a>
+  ·   <a href="https://shorajghimire.com.np/">Portfolio</a>
+  ·   <a href="mailto:shorajghm11@gmail.com">Email</a>
 
-<p align="center">
-  <small>Built for dependable systems and product-minded execution.</small>
-</p>
+<br><br>
+
+<em>Build → Ship → Learn → Repeat</em>
+
+<br><br>
+
+<img src="./assets/dune-divider.svg" width="100%" alt="" />
+
+<sub>the desert remembers.</sub>
+
+</div>
