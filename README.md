@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171511,50:2A241B,100:8F7A4D&height=180&section=header&text=SHORAJ%20GHIMIRE&fontSize=42&fontColor=D8C9A6&fontAlignY=42&desc=JAVA%20BACKEND%20DEVELOPER%20%C2%B7%20BUILDER%20%C2%B7%20SAAS%20FOUNDER&descSize=13&descAlignY=64&descColor=A99A78&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHORAJ%20GHIMIRE&fontSize=46&fontColor=E1D3B2&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%C2%B7%20BUILDER%20%C2%B7%20SAAS%20FOUNDER&descAlignY=58&descSize=14&descColor=B4A47F&animation=fadeIn&color=0:171510,45:282219,100:65563B" width="100%"/>
 
-### ✦ Building reliable backend systems today, building products of my own tomorrow. ✦
+<br>
 
-`JAVA 17` · `SPRING BOOT` · `BACKEND` · `SYSTEMS` · `PRODUCTS`
+### Building reliable backend systems today, building products of my own tomorrow.
+
+<br>
+
+`JAVA 17`    `SPRING BOOT`    `BACKEND`    `SYSTEMS`    `PRODUCTS`
+
+<br><br>
+
+`✦`   `01`   `02`   `03`   `04`   `✦`
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
+## THE PROFILE
 
-## ⚜ THE PROFILE
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 I build backend systems with real-world constraints in mind — **stability, clarity, maintainability, and the ability to grow into useful products.**
 
@@ -26,233 +32,274 @@ My focus is **Java, Spring, backend architecture, and product-minded engineering
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### CURRENT DIRECTION
-
-⚙ Backend Engineering
-◈ Reliable Systems
-⌁ Production Practices
-◇ Product Development
-✦ SaaS Foundations
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ⚔ THE CRAFT
-
-*Engineering inventory*
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### ☕ BACKEND
-
-<img src="https://cdn.simpleicons.org/openjdk/CFB98A" width="22">  
-`Java 17`
-
-<img src="https://cdn.simpleicons.org/spring/CFB98A" width="22">  
-`Spring Boot`
-
-<img src="https://cdn.simpleicons.org/springsecurity/CFB98A" width="22">  
-`Spring Security`
-
-`JPA / Hibernate`
-
-`REST APIs`
-
-</td>
-
-<td align="center" width="25%">
-
-### ◈ DATA
-
-<img src="https://cdn.simpleicons.org/postgresql/CFB98A" width="22">  
-`PostgreSQL`
-
-<img src="https://cdn.simpleicons.org/mysql/CFB98A" width="22">  
-`MySQL`
-
-<img src="https://cdn.simpleicons.org/redis/CFB98A" width="22">  
-`Redis`
-
-</td>
-
-<td align="center" width="25%">
-
-### ⬡ INFRASTRUCTURE
-
-<img src="https://cdn.simpleicons.org/docker/CFB98A" width="22">  
-`Docker`
-
-<img src="https://cdn.simpleicons.org/apachekafka/CFB98A" width="22">  
-`Kafka`
-
-<img src="https://cdn.simpleicons.org/githubactions/CFB98A" width="22">  
-`GitHub Actions`
-
-</td>
-
-<td align="center" width="25%">
-
-### ✓ TESTING
-
-<img src="https://cdn.simpleicons.org/junit5/CFB98A" width="22">  
-`JUnit`
-
-`Mockito`
-
-`Testcontainers`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ THE WORK
-
-*Selected systems from the archive*
-
-</div>
-
-<table>
-<tr>
-<td width="9%" align="center">
-
-### 01
+**CURRENTLY FOCUSED ON**
 
 <br>
 
-⚙
+→ Backend Engineering
+→ Reliable Systems
+→ Production Practices
+→ Product Development
+→ SaaS Foundations
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## THE CRAFT
+
+<p>
+  <sub>01 — BACKEND</sub>
+</p>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/openjdk/8F7A55" width="38"><br><br>
+<b>Java 17</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/spring/8F7A55" width="38"><br><br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/springsecurity/8F7A55" width="38"><br><br>
+<b>Spring Security</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/hibernate/8F7A55" width="38"><br><br>
+<b>JPA / Hibernate</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/openapiinitiative/8F7A55" width="38"><br><br>
+<b>REST APIs</b>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <sub>02 — DATA</sub>
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/postgresql/8F7A55" width="38"><br><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/mysql/8F7A55" width="38"><br><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/redis/8F7A55" width="38"><br><br>
+<b>Redis</b>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <sub>03 — INFRASTRUCTURE & TESTING</sub>
+</p>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/docker/8F7A55" width="38"><br><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/apachekafka/8F7A55" width="38"><br><br>
+<b>Kafka</b>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/githubactions/8F7A55" width="38"><br><br>
+<b>GitHub Actions</b>
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/junit5/8F7A55" width="38"><br><br>
+<b>JUnit</b> · <b>Mockito</b>
+</td>
+</tr>
+</table>
+
+<br>
+
+`TESTCONTAINERS`
+
+<br>
+
+---
+
+<div align="center">
+
+## THE WORK
+
+<sub>THREE SYSTEMS · THREE DIFFERENT PROBLEMS · ONE ENGINEERING DIRECTION</sub>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="12%" valign="top">
+
+### 01
 
 </td>
 
-<td width="91%">
+<td width="88%" valign="top">
 
-### UBER BACKEND
+## UBER BACKEND
 
 **Mobility backend**
 
 A Java and Spring Boot backend focused on authentication, driver operations, ride workflows, location handling, and payments.
 
+<br>
+
 **CORE SYSTEMS**
 
-`JWT` · `Driver Availability` · `Driver Location` · `Ride Lifecycle` · `Payments` · `Haversine`
+`Driver Availability`   `Driver Location`   `Ride Lifecycle`
+`Payments`   `Haversine Distance`   `JWT`
 
-**STACK**
+<br>
+
+**ENGINEERING**
 
 `Java 17` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `MySQL` · `Docker`
 
-**[→ VISIT REPOSITORY](https://github.com/shorajgoat/UberBackendChief)**
+<br>
+
+**[VIEW REPOSITORY →](https://github.com/shorajgoat/UberBackendChief)**
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <table>
 <tr>
-<td width="9%" align="center">
+<td width="12%" valign="top">
 
 ### 02
 
-<br>
-
-₿
-
 </td>
 
-<td width="91%">
+<td width="88%" valign="top">
 
-### PAYFLOW
+## PAYFLOW
 
 **Payment & e-wallet backend**
 
 A standalone payment and e-wallet backend focused on wallet operations, transaction integrity, security, and production-oriented backend engineering.
 
+<br>
+
 **CORE SYSTEMS**
 
-`Deposits` · `Withdrawals` · `Transfers` · `Transaction History` · `Idempotency` · `Concurrency`
+`Deposits`   `Withdrawals`   `Transfers`
+`Transaction History`   `Idempotency`   `Concurrency`
 
-**STACK**
+<br>
 
-`Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Redis` · `Kafka` · `JUnit` · `Mockito` · `Testcontainers` · `Docker` · `GitHub Actions`
+**ENGINEERING**
 
-**[→ VISIT REPOSITORY](https://github.com/shorajgoat/payflow)**
+`Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Redis` · `Kafka`
+
+`JUnit` · `Mockito` · `Testcontainers` · `Docker` · `GitHub Actions`
+
+<br>
+
+**[VIEW REPOSITORY →](https://github.com/shorajgoat/payflow)**
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <table>
 <tr>
-<td width="9%" align="center">
+<td width="12%" valign="top">
 
 ### 03
 
-<br>
-
-▣
-
 </td>
 
-<td width="91%">
+<td width="88%" valign="top">
 
-### BIZFLOW
+## BIZFLOW
 
 **Business workflow backend**
 
 A practical business management system built around everyday operations and workflows.
 
+<br>
+
 **CORE SYSTEMS**
 
-`Products` · `Categories` · `Customers` · `Suppliers` · `Purchases` · `Payments` · `Dues`
+`Products`   `Categories`   `Customers`
+`Suppliers`   `Purchases`   `Payments`   `Dues`
 
-**STACK**
+<br>
+
+**ENGINEERING**
 
 `Java 17` · `Spring Boot` · `Spring Security` · `JWT` · `JPA / Hibernate` · `MySQL` · `Docker`
 
-**[→ VISIT REPOSITORY](https://github.com/shorajgoat/BizFlow)**
+<br>
+
+**[VIEW REPOSITORY →](https://github.com/shorajgoat/BizFlow)**
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
-## ⌁ THE DIRECTION
+## THE DIRECTION
 
-<br>
+<br><br>
 
-⚙ **BACKEND**
+### BACKEND
 
-   ↓   
+`↓`
 
-◈ **SYSTEMS**
+### SYSTEMS
 
-   ↓   
+`↓`
 
-⬡ **PRODUCTION**
+### PRODUCTION
 
-   ↓   
+`↓`
 
-✦ **PRODUCTS**
+### PRODUCTS
 
 <br><br>
 
@@ -260,56 +307,58 @@ A practical business management system built around everyday operations and work
 
 </div>
 
----
-
-<div align="center">
-
-## ✦ THE SIGNAL
-
 <br>
 
-**I'm interested in backend engineering, reliable systems, and software that solves practical problems.**
+---
+
+## THE SIGNAL
+
+<table>
+<tr>
+<td width="8%" valign="top">
+
+✦
+
+</td>
+
+<td width="92%">
+
+I'm interested in **backend engineering, reliable systems, and software that solves practical problems.**
 
 I'm building toward the intersection of **engineering and entrepreneurship** — learning how to turn solid technical foundations into useful products.
 
-</div>
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-## ⚜ THE ARCHIVE
+## FIND ME
 
 <br>
 
 **If you're building something interesting, feel free to reach out.**
 
-<br>
+<br><br>
 
-<img src="https://cdn.simpleicons.org/github/CFB98A" width="18">
-[GitHub](https://github.com/shorajgoat)
-
-  ·  
-
-<img src="https://cdn.simpleicons.org/linkedin/CFB98A" width="18">
-[LinkedIn](https://www.linkedin.com/in/shoraj-ghimire-746593242/)
-
-  ·  
-
-◇
-[Portfolio](https://shorajghimire.com.np/)
-
-  ·  
-
-✉
-[Email](mailto:shorajghm11@gmail.com)
+[**GITHUB**](https://github.com/shorajgoat)
+   ·   
+[**LINKEDIN**](https://www.linkedin.com/in/shoraj-ghimire-746593242/)
+   ·   
+[**PORTFOLIO**](https://shorajghimire.com.np/)
+   ·   
+[**EMAIL**](mailto:shorajghm11@gmail.com)
 
 <br><br>
 
-`✦`   `BUILD`   `SHIP`   `LEARN`   `REPEAT`   `✦`
+`BUILD`   `SHIP`   `LEARN`   `REPEAT`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F7A4D,50:2A241B,100:171511&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:65563B,45:282219,100:171510" width="100%"/>
 
 </div>
