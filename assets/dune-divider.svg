@@ -1,0 +1,22 @@
+<svg width="1600" height="160" viewBox="0 0 1600 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="duneBg" x1="0" y1="0" x2="0" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090807"/>
+      <stop offset="1" stop-color="#17120f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="160" fill="url(#duneBg)"/>
+  <path d="M0 95C120 78 220 68 330 80C445 92 535 86 635 72C760 54 890 56 1010 74C1115 89 1225 94 1325 84C1410 75 1500 62 1600 78V160H0V95Z" fill="#d9b888" opacity="0.22"/>
+  <path d="M0 113C140 95 240 90 340 104C452 119 550 112 650 96C750 80 845 80 952 98C1058 116 1152 118 1248 104C1363 87 1494 90 1600 110V160H0V113Z" fill="#c99e69" opacity="0.22"/>
+  <path d="M0 135C132 122 240 118 350 128C472 139 578 133 670 124C787 112 890 112 1010 128C1128 143 1248 145 1360 134C1458 124 1525 120 1600 131V160H0V135Z" fill="#e7cf9d" opacity="0.16"/>
+
+  <g opacity="0.8">
+    <path d="M0 77C215 56 398 71 535 56C661 43 756 38 871 50C973 59 1069 59 1171 49C1293 37 1425 41 1600 61" stroke="#e8d8ae" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M0 92C180 72 345 82 478 68C586 56 692 55 806 69C930 84 1022 82 1134 68C1285 51 1448 52 1600 73" stroke="#d4b27c" stroke-width="1.1" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <g opacity="0.75">
+    <path d="M800 12L820 28L840 12L860 28L880 12L900 28L920 12L940 28L960 12" stroke="#f2ddac" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+</svg>

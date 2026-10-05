@@ -1,0 +1,47 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="graphBg" x1="0" y1="0" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E0B09"/>
+      <stop offset="1" stop-color="#17120f"/>
+    </linearGradient>
+    <linearGradient id="lineGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DCC389"/>
+      <stop offset="1" stop-color="#B8894A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#graphBg)"/>
+  <g opacity="0.18" stroke="#F0E2C2" stroke-width="1">
+    <path d="M40 40H1160"/>
+    <path d="M40 90H1160"/>
+    <path d="M40 140H1160"/>
+    <path d="M40 190H1160"/>
+    <path d="M40 220H1160"/>
+  </g>
+
+  <g fill="#E7D1A5" opacity="0.85">
+    <rect x="90" y="150" width="35" height="70" rx="6"/>
+    <rect x="170" y="120" width="35" height="100" rx="6"/>
+    <rect x="250" y="100" width="35" height="120" rx="6"/>
+    <rect x="330" y="140" width="35" height="80" rx="6"/>
+    <rect x="410" y="85" width="35" height="135" rx="6"/>
+    <rect x="490" y="110" width="35" height="110" rx="6"/>
+    <rect x="570" y="70" width="35" height="150" rx="6"/>
+    <rect x="650" y="95" width="35" height="125" rx="6"/>
+    <rect x="730" y="60" width="35" height="160" rx="6"/>
+    <rect x="810" y="115" width="35" height="105" rx="6"/>
+    <rect x="890" y="90" width="35" height="130" rx="6"/>
+    <rect x="970" y="130" width="35" height="90" rx="6"/>
+  </g>
+
+  <path d="M70 188C170 155 250 142 330 165C420 190 500 128 585 132C650 136 710 170 785 148C860 126 924 95 1002 110C1060 120 1105 145 1135 170" stroke="url(#lineGold)" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.75"/>
+  <path d="M70 200C160 176 241 162 331 178C429 196 497 149 580 148C660 147 715 177 798 166C887 154 961 115 1135 150" stroke="#E8D9B5" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.55"/>
+
+  <g fill="#EAD8A9" opacity="0.92">
+    <circle cx="70" cy="188" r="4"/>
+    <circle cx="330" cy="165" r="4"/>
+    <circle cx="585" cy="132" r="4"/>
+    <circle cx="798" cy="166" r="4"/>
+    <circle cx="1135" cy="170" r="4"/>
+  </g>
+</svg>
