@@ -6,13 +6,13 @@
 
 *Building reliable backend systems today, building products of my own tomorrow.*
 
-`JAVA` · `SPRING BOOT` · `BACKEND` · `SYSTEMS` · `PRODUCTS`
+`JAVA 17` · `SPRING BOOT` · `BACKEND` · `SYSTEMS` · `PRODUCTS`
+
+✦ ───────────────────────────────────────── ✦
 
 </div>
 
----
-
-## 𐩐 ABOUT
+## THE PROFILE
 
 I build backend systems with real-world constraints in mind — **stability, clarity, maintainability, and the ability to grow into useful products.**
 
@@ -20,118 +20,113 @@ My focus is **Java, Spring, backend architecture, and product-minded engineering
 
 ---
 
-## 𐩐 THE CRAFT
+## THE CRAFT
 
-| Backend         | Data       | Infrastructure | Testing        |
-| :-------------- | :--------- | :------------- | :------------- |
-| Java 17         | PostgreSQL | Docker         | JUnit          |
-| Spring Boot     | MySQL      | Kafka          | Mockito        |
-| Spring Security | Redis      | GitHub Actions | Testcontainers |
-| JPA / Hibernate |            |                | REST APIs      |
+| Backend           | Data         | Infrastructure   | Testing          |
+| :---------------- | :----------- | :--------------- | :--------------- |
+| `Java 17`         | `PostgreSQL` | `Docker`         | `JUnit`          |
+| `Spring Boot`     | `MySQL`      | `Kafka`          | `Mockito`        |
+| `Spring Security` | `Redis`      | `GitHub Actions` | `Testcontainers` |
+| `JPA / Hibernate` |              |                  | `REST APIs`      |
 
----
-
-## 𐩐 CURRENTLY BUILDING
-
-**01 — Backend Systems**
-Reliable APIs and real-world business logic.
-
-**02 — SaaS Foundations**
-Turning useful software into products.
-
-**03 — Production Engineering**
-Security, consistency, testing, and deployment.
-
-**04 — Product Thinking**
-Build something useful. Keep it simple.
+<sub>Ⅰ · Backend    Ⅱ · Data    Ⅲ · Infrastructure    Ⅳ · Testing</sub>
 
 ---
 
-## 𐩐 SELECTED WORK
+## THE WORK
 
 ### 01 · UBER BACKEND
 
-A Java and Spring Boot backend focused on mobility workflows, authentication, driver operations, ride management, location handling, and payments.
+**Mobility backend**
 
-**Built with**
+A Java and Spring Boot backend focused on authentication, driver operations, ride workflows, location handling, and payments.
 
-`Java 17` · `Spring Boot` · `Spring Security` · `JWT` · `JPA` · `MySQL` · `Docker`
+**Core systems**
 
-**Explore the project →**
-[**Visit Repository**](https://github.com/shorajgoat/UberBackendChief)
+`JWT` · `Driver Availability` · `Driver Location` · `Ride Lifecycle` · `Payments` · `Haversine Distance`
+
+**Stack**
+
+`Java 17` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `MySQL` · `Docker`
+
+**[→ Visit Repository](https://github.com/shorajgoat/UberBackendChief)**
 
 ---
 
 ### 02 · PAYFLOW
 
-A standalone payment and e-wallet backend focused on transaction integrity, wallet operations, transfers, idempotency, concurrency, security, and production-oriented backend engineering.
+**Payment & e-wallet backend**
 
-**Built with**
+A standalone payment and e-wallet backend focused on wallet operations, transaction integrity, security, and production-oriented backend engineering.
 
-`Java 17` · `Spring Boot` · `PostgreSQL` · `Redis` · `Kafka` · `Docker` · `JUnit` · `Mockito` · `Testcontainers`
+**Core systems**
 
-**Explore the project →**
-[**Visit Repository**](https://github.com/shorajgoat/payflow)
+`Deposits` · `Withdrawals` · `Transfers` · `Transaction History` · `Idempotency` · `Concurrency`
+
+**Stack**
+
+`Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Redis` · `Kafka` · `JUnit` · `Mockito` · `Testcontainers` · `Docker` · `GitHub Actions`
+
+**[→ Visit Repository](https://github.com/shorajgoat/payflow)**
 
 ---
 
 ### 03 · BIZFLOW
 
-A business workflow system designed around practical operations including products, categories, customers, suppliers, purchases, payments, and dues.
+**Business workflow backend**
 
-**Built with**
+A practical business management system built around everyday operations and workflows.
+
+**Core systems**
+
+`Products` · `Categories` · `Customers` · `Suppliers` · `Purchases` · `Payments` · `Dues`
+
+**Stack**
 
 `Java 17` · `Spring Boot` · `Spring Security` · `JWT` · `JPA / Hibernate` · `MySQL` · `Docker`
 
-**Explore the project →**
-[**Visit Repository**](https://github.com/shorajgoat/BizFlow)
+**[→ Visit Repository](https://github.com/shorajgoat/BizFlow)**
 
 ---
 
-## 𐩐 THE DIRECTION
+## THE DIRECTION
 
 <div align="center">
 
-**BACKEND**
-↓
-**SYSTEMS**
-↓
-**PRODUCTION**
-↓
-**PRODUCTS**
-
-</div>
-
----
-
-## 𐩐 PHILOSOPHY
-
-> **Build something useful.**
-> **Make it reliable.**
-> **Keep learning.**
-> **Ship it.**
-
----
-
-## 𐩐 FIND ME
-
-<div align="center">
-
-[**GitHub**](https://github.com/shorajgoat)
-[**LinkedIn**](https://www.linkedin.com/in/shoraj-ghimire-746593242/)
-[**Portfolio**](https://shorajghimire.com.np/)
-[**Email**](mailto:shorajghm11@gmail.com)
+`BACKEND`   →   `SYSTEMS`   →   `PRODUCTION`   →   `PRODUCTS`
 
 <br>
 
-*Build → Ship → Learn → Repeat*
+<sub>Building with engineering discipline. Thinking with a product mindset.</sub>
 
 </div>
 
 ---
 
+## THE SIGNAL
+
+I'm interested in **backend engineering, reliable systems, and software that solves practical problems.**
+
+Currently building toward the intersection of **engineering and entrepreneurship** — learning how to turn solid technical foundations into useful products.
+
+---
+
+## THE ARCHIVE
+
 <div align="center">
 
-`THE WORK SPEAKS.`
+**If you're building something interesting, feel free to reach out.**
+
+<br>
+
+[GitHub](https://github.com/shorajgoat) · [LinkedIn](https://www.linkedin.com/in/shoraj-ghimire-746593242/) · [Portfolio](https://shorajghimire.com.np/) · [Email](mailto:shorajghm11@gmail.com)
+
+<br>
+
+✦
+
+<br>
+
+<sub>SHORAJ GHIMIRE · JAVA BACKEND · BUILDER · SAAS FOUNDER</sub>
 
 </div>
